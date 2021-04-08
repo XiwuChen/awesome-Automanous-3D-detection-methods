@@ -149,6 +149,12 @@ framework ： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
 - [[arxiv](https://arxiv.org/pdf/2011.01630)] A Neural Network for Fast and Efficient Edge Detection in 3D Point Clouds. [__`lidar`__][__`kitti`__]
 - [[arxiv](https://arxiv.org/pdf/2012.03015)] CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud. [__`lidar`__][__`kitti`__]
 - [[arxiv](https://arxiv.org/pdf/2012.03121)] It’s All Around You: Range-Guided Cylindrical Network for 3D Object Detection. [__`lidar`__][__`kitti`__]
+
+## 2021
+- [[CVPR2021](https://arxiv.org/pdf/2103.15297.pdf)] LiDAR R-CNN: An Efficient and Universal 3D Object Detector. [__`lidar`__][__`kitti`__][__`waymo`__]
+- [[arxiv](https://arxiv.org/pdf/2103.10039.pdf)] RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection. [__`lidar`__][__`rangeview`__][__`waymo`__]
+
+
 ## Suvery
 - [[TPAMI](https://arxiv.org/pdf/1912.12033)] Deep Learning for 3D Point Clouds: A Survey[__`lidar`__]
 - [[arxiv](https://arxiv.org/pdf/2003.00601)] 3D Point Cloud Processing and Learning for Autonomous Driving[__`lidar`__]
